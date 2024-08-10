@@ -1,0 +1,16 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#030A45</color>
+    <color name="colorPrimaryDark">#0D6CDF</color>
+    <color name="colorAccent">#286CB6</color>
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="splashBackgroundColor">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#666666</color>
+    <color name="buttonBackground">#00796B</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+</resources>
