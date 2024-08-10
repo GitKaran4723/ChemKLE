@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ChemKLE</string>
+    <string name="app_name">ChemiKLE</string>
+    <string name="description_flash">Make Solutions Easy</string>
 </resources>

@@ -10,8 +10,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:src="@drawable/ic_launcher1"
-        android:contentDescription="@string/app_name"/>
+        android:src="@drawable/ic_launcher"
+        android:contentDescription="@string/description_flash"/>
 
     <TextView
         android:id="@+id/textViewAppName"
@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/app_name"
+        android:text="@string/description_flash"
         android:textSize="24sp"
         android:textStyle="bold"
         android:padding="16dp"/>
